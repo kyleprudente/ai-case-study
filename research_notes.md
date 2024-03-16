@@ -3,6 +3,7 @@
 ## Overview and Origin
 
 * Name of company
+
 AlphaSense
 
 * When was the company incorporated?
