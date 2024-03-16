@@ -3,12 +3,16 @@
 ## Overview and Origin
 
 * Name of company
+AlphaSense
 
 * When was the company incorporated?
+2011
 
 * Who are the founders of the company?
+Jack Kokko and Raj Neervannan
 
 * How did the idea for the company (or project) come about?
+AlphaSense came about when the founder Jack Kokko was conducting market research manually, combing through each PDF file using CTRL+F to find an insight. After several years, Jack had met co-founder Raj Neervannan and found that the tools and methodology for market research remained the same. Together, they launched AlphaSense in 2011 with the goal of aiding professionals to extract insights from numerous sources and data points.
 
 * How is the company funded? How much funding have they received?
 
