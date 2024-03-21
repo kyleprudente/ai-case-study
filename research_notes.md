@@ -40,6 +40,7 @@ AlphaSense offers a search engine that utilizes artificial intelligence, natural
 AlphaSense is in the field of market intelligence.
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+- last decade was the era of big data; required new hardware utilizations for data computing such as distributed computing (spreading analytical calculations across multiple servers); analyzes data "in memory" which accelerates times-to-answer; made it possible for organizations to acquire large amounts of computing power for short periods at low cost; more use of open source software such 
 
 * What are the other major companies in this field?
 Bloomberg
